@@ -1,0 +1,2 @@
+Need these files for important operations like augumentation and tf record generation
+ 
